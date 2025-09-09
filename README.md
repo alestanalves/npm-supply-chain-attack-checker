@@ -1,4 +1,4 @@
-# 🔒 Secure NPM — Script Único de Verificação e Mitigação
+# 🔒 Secure NPM — Script 
 
 Este repositório contém um **script único em Node.js** que detecta se seu projeto possui **dependências comprometidas** em ataques de *supply chain* no **npm** (também funciona com **Yarn** e **Pnpm**) e oferece um fluxo interativo para **remover** ou **voltar para versões seguras** automaticamente.
 
